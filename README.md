@@ -53,4 +53,4 @@ Adopted all around the world, OpenCV has more than 47 thousand people of user co
 
 # Licence
 
-Licenced under MIT Licence
+Licenced under the MIT Licence
