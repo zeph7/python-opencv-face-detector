@@ -1,8 +1,8 @@
 # Face Detector
 
-Created a full fledged python face detector application
+  Created a full fledged python face detector application
 
-![](https://www.pyimagesearch.com/wp-content/uploads/2017/08/faster_for_loop_header.png)
+![](https://i1.wp.com/omgfoss.com/wp-content/uploads/2018/08/opencv_hor_900_1.jpg?ssl=1)
 
 
 # What is it?
@@ -43,8 +43,6 @@ Python 3 - version 3.7.0
 
 
 # OpenCV
-
-![](https://i1.wp.com/omgfoss.com/wp-content/uploads/2018/08/opencv_hor_900_1.jpg?ssl=1)
 
 OpenCV (Open Source Computer Vision Library) is released under a BSD license and hence it’s free for both academic and commercial use. It has C++, Python and Java interfaces and supports Windows, Linux, Mac OS, iOS and Android. OpenCV was designed for computational efficiency and with a strong focus on real-time applications. Written in optimized C/C++, the library can take advantage of multi-core processing. Enabled with OpenCL, it can take advantage of the hardware acceleration of the underlying heterogeneous compute platform.
 
