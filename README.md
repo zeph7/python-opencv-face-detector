@@ -9,7 +9,7 @@
 
 Created a full fledged python face detector application
 
-This is a full fledged Face Detector application in python which aims to detect faces in any Image or detect any faces in a video file, also aims to detect faces appearing in your WebCam. Its created by the use of OpenCV in python which detect faces on a basis of a Haar Cascade file that contain all the face features.
+This is a full fledged Face Detector application in python which aims to detect faces in any Image or detect any faces in a video file, also aims to detect faces appearing in your WebCam. Its created by the use of OpenCV in python which detect faces on the basis of a Haar Cascade file that contain all the face features.
 
 ## Features
 
